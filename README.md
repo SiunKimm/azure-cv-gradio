@@ -1,7 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Azure Custom Vision Object Detection with Gradio
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+이 프로젝트는 Microsoft Azure의 Custom Vision 서비스와 Gradio를 이용하여 **웹 기반의 이미지 객체 탐지 인터페이스**를 제공합니다.
+이미지를 업로드하면 Azure의 학습된 Custom Vision 모델을 통해 객체를 인식하고, 결과 이미지를 시각화하여 반환합니다.
